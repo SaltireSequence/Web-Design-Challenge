@@ -46,7 +46,11 @@ p{
     margin-top: 10px;
     font-size: 18px;
 }
-
+p1{
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+}
 
 hr.light {
     border-top: 1px solid #d5d5d5;
