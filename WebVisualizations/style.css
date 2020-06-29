@@ -10,6 +10,9 @@ html, body {
 navbar {
   padding: .1rem;
 }
+.navbar-custom {
+  background-color: #e7a058 !important;
+}
 .navbar-nav li {
   padding-right: 40px;
 }
